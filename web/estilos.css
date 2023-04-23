@@ -1,0 +1,77 @@
+body{
+ background-color:rgb(14, 13, 13);
+ 
+
+}
+header{
+  background:gray;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  
+}
+#listaprincipal {
+  float: left;
+}
+#listaprincipal ul {
+  list-style: none;
+  overflow: hidden; 
+}
+#listaprincipal ul li {
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;;
+  font-size: 20px;
+}   
+#listaprincipal ul li a {
+  display: block; 
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#listaprincipal ul li:hover {
+  background: #eca023;
+}
+
+
+
+
+
+
+#amigos {
+  float: left;
+  
+}
+#amigos ul {
+  list-style: none;
+  overflow: hidden; 
+
+}
+#amigos ul li {
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;;
+  font-size: 20px;
+  
+}  
+
+#amigos ul li a {
+  display: block; 
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#amigos ul li:hover {
+  background: #eca023;
+}
+#texto1{
+  color:white;
+  
+  float: left;
+  
+
+
+}
+img{
+  position: relative;
+  float: left;
+}
+  
